@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "minecraft-357407",
+  "private_key_id": "fbea91beb3eefb510a871217028ee7a9da4d43fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsuQYIkrcbPobB\nEtixQb659cTiyWZ72103X2T7lrysN9JBNFOpmuKNIHGGvspgbij1p3jsc7RP6PKK\n57ViXvCCZBYtWVpF4cuuGleIav/enPfHkuXl7Ee0bq/ZdTtSurY3cv6CkLFeCoIt\n3QTC3/DLj2lRDVKnQ+t0/KMo2AyPsMfwF/IpHIaGDclsTDdFQ6GaML0mOOndWVN6\ndA6Te3nskCzxLzq7KiyAGbPh8LbTebkbRaqEoKmIwWkRuKo2fBNYlOiXRRQJlnK/\nC5L9LxAbiSNmtNvtuSegB2KM17izrtvVRn4urUO5xlkvwsz4O7pxyR7VvZQfSauT\nE9So57unAgMBAAECggEAC5X58/0fbaMzJYjFmZbaUrAC6UzvCLhIvBVY1KxZKbYx\nJWfW8a7lhnoRSkgTkwYy8ipSn9boe15QxPL1jpXBBCqmG5vrIAx4kBVfjMFBOm8p\neJq2c4/khNyt3uRHcaREvqPds1Vio9KaxiM6KAiMglnqQobK5gtDpEDq7k/OAHiB\nx8nzbbv5k3empXjyzYMLocxAnFMut1qX1DeTUG8COIQYygvUnfBKGm4JlqKbyAtm\nvwRrXUYpUgfcVLXCAOpFXmHk80b7jvpZPSGroqhahRyUBhJpFCBKtePkx0aYo0mr\nsn6tq9RSIdWBahnUHzCFUmF0sUcnDvs0aq7G42oNKQKBgQDc/UUftbQFlJ3OpTz/\n3W+LlVKuT2UVM7sdC+2y1jzAq6aJUPDfvZnl6tuNUUm8Z2QpoFdfG7O+C9wYc1xq\nq+UzkmmgIEOiYYTxzNEOPl8V2fBHyItn/kE7Vc3S8CDuMJuZEGai8NiUI/MHzxif\neOWXY+dSlFWWPc85pay/dYou6QKBgQDIFjD2BEhtisl/x9PdQw75CkklnufrQmOO\nbg90oBaoegRyRdUwKiWietRnwY2TlKiL5j8BVWDSCW2pKtTvBNXTMepZgUEpTJSE\nZDfet+IbZ+FPO3jQCMMO7J7S7LwNxC737/EBQmpEDTnS9EClJFI57eD8lZJIfLS8\nFQpQ/dGcDwKBgAUh1KMh4yZmBywvZjVC/T4un5bwvRY691N7XW/TzeFjmyCBQrbP\nfm16gNLNWnsHo6nb0WuiBxCY0em3dCP+DfqeodlYJnn07dN3wDsmc6rcPtpL7ADk\nRLuOCJOng/xEILjzSo7qLP1zwEckJhw+AIb9iPe//iTZFqDuGg7wOd9RAoGBALV1\nAqQqkDDf/AupgueYCD0s6dd3fGasR7OE9vlSshnKxruHv2a14nmvIXCTZT0hRZXS\nkvM3pd319QDFOmUmInEtRJY1lY3JyKskZFLUuvcVx4zep5srRxMC3qr1TTrC38G1\nVgFJZSwgPn+lSfc6sGOe6zrGvuqERjiIcFmxRuZbAoGAJQh9KxhIo5ChOMUug/uA\nBU61XGAUFNuO6n+XpjP0n4maAiYbSILxS1SGS/i6JT83swM9TkLnZIfoCZYeo8LU\nLtg5dZC/9kW+MtDCu/ylT+YUFssn89CApb8Ga0gD9JYoshF2/SE80FFIZ0SYUt0J\nHLSLCG+/JSVqmGXKUn+sYSc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-gsheet@minecraft-357407.iam.gserviceaccount.com",
+  "client_id": "115274761855160478141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-gsheet%40minecraft-357407.iam.gserviceaccount.com"
+}
